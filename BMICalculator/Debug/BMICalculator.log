@@ -1,0 +1,3 @@
+﻿  BMICalculator.cpp
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\BMICalculator\BMICalculator.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BMICalculator.vcxproj -> C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\BMICalculator\Debug\BMICalculator.exe

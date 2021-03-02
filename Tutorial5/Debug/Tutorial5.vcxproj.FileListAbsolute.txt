@@ -1,0 +1,2 @@
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\Tutorial5\Debug\Tutorial5.exe
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\Tutorial5\Debug\Tutorial5.pdb

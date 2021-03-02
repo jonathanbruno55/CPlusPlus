@@ -1,0 +1,2 @@
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\BMICalculator\Debug\BMICalculator.exe
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\BMICalculator\Debug\BMICalculator.pdb
