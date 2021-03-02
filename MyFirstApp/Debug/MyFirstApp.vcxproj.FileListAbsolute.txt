@@ -1,0 +1,2 @@
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\MyFirstApp\Debug\MyFirstApp.exe
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\MyFirstApp\Debug\MyFirstApp.pdb
