@@ -1,0 +1,3 @@
+﻿  GuessingGame.cpp
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\GuessingGame\GuessingGame.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GuessingGame.vcxproj -> C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\GuessingGame\Debug\GuessingGame.exe
