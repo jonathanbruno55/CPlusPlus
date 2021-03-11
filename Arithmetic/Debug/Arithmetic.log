@@ -1,0 +1,3 @@
+﻿  Arithmetic.cpp
+C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\Arithmetic\Arithmetic.cpp(5,12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Arithmetic.vcxproj -> C:\Users\Jonathan Bruno\OneDrive\Desktop\C++\Arithmetic\Debug\Arithmetic.exe
